@@ -16,7 +16,7 @@
 I'm a hands-on tech leader & developer, passionate about building cool stuff with modern tech. Love to learn, mentor, and tackle complex problems. 
 Always exploring what's next!
 
-🛠️ ━━━━━━━━━━━━━━━[ SKILLS ]━━━━━━━━━━━━━━━
+🛠️ **━━━━━━━━━━━━━━━[ SKILLS ]━━━━━━━━━━━━━━━**
 
 ```javascript
 const IONI = {
