@@ -10,30 +10,6 @@ I'm a hands-on tech leader and software developer, passionate about building inn
 
 ---
 
-## 💼 Experience Highlights
-
-- **Microsoft – Solutions Architect (2022-Present)**
-  - Leading Azure Cloud, Data & AI initiatives across MEA
-  - Driving AI modernization, LLMOps, and DevOps transformations for enterprise clients
-  - Facilitating Copilot and Agile workshops
-
-- **Bolt – Software Architect (2021)**
-  - Modernized platform to .NET 6 & Cloud-first architecture
-  - Delivered PoCs and advanced architectural solutions
-
-- **ImageSat International – Software Development Team Lead (2018-2021)**
-  - Managed a cross-functional team (Dev, QA, DevOps)
-  - Increased product launch rate by 15% through iDesign Method
-  - Built unified infrastructure for multi-satellite ground station
-
-- **Activetrail, Tracx, R/GA, Quadratica, Universidad de Flores, and more...**
-  - Led teams, delivered scalable platforms, improved performance, and mentored developers
-
-- **Freelance/Contract Work**
-  - Architected and developed solutions for startups and enterprises using React, Node, AWS, Docker, and more
-
----
-
 ## 🛠️ Skills
 
 - **Architecture & Design:** Solution Architecture, Enterprise Integration, Agile Methodologies
@@ -41,13 +17,6 @@ I'm a hands-on tech leader and software developer, passionate about building inn
 - **Software Development:** C#/.NET (15+ yrs), Web Apps, Cloud-Native, React, Angular, Python, PHP, SQL & NoSQL DBs, Redis
 - **Leadership:** Team building, mentorship, workshops, technical writing
 - **Languages:** English, Spanish, Hebrew
-
----
-
-## 🎓 Education
-
-- **B.Sc. Computer Science** – Universidad de Palermo, Buenos Aires
-- **Computer System Analyst** – ORT, Buenos Aires
 
 ---
 
