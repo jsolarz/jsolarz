@@ -17,14 +17,33 @@ I'm a hands-on tech leader & developer, passionate about
 building cool stuff with modern tech. Love to learn, mentor,  
 and tackle complex problems. Always exploring what's next!
 
-🛠️ **━━━━━━━━━━━━━━━[ SKILLS ]━━━━━━━━━━━━━━━**
+🛠️ ━━━━━━━━━━━━━━━[ SKILLS ]━━━━━━━━━━━━━━━
 
-▌ Architecture & Design: Solution Architecture, Enterprise Integration, Agile  
-▌ Cloud & DevSecOps: Azure, AWS, GitHub, GitLab, Bitbucket, Docker, IaC  
-▌ Software: C#/.NET (15+ yrs), Web Apps, Cloud-Native, React, Angular,  
-▌           Python, PHP, SQL/NoSQL, Redis  
-▌ Leadership: Team building, mentorship, workshops, writing  
-▌ Languages: English, Spanish, Hebrew  
+```
+const IONI = {
+  Code: [C#, Python, PHP, Web-Apps, Cloud-native, Javascript, Typescript, HTML, CSS], // 20+ yrs, might dream in curly brace
+  Databases: ["PostgreSQL", "MySql", "SQLite", "MS SQL Server", "Redis"],
+  Tools: [React, Angular, Node, Docker, K8S],
+  Architecture: ["Solution Architecture", "Enterprise Integration", "microservices", "event-driven", "design system pattern"],
+  Cloud: [Azure, AWS, GCP, IaC (Bicep, Terraform)]
+  DevOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
+  AI: ["Azure AI Services", "Agents and AI Assistants Development", "OpenAI Technologies", "AI Ethics", "Semantic Kernel"], // makes computers slightly smarter,
+  Leadership: {
+      "Team building", // never flipped a table
+      "Mentorship",
+      "Workshops",
+      "Writing epic documentation"
+  },
+  Languages: {
+      "🇺🇸 English",
+      "🇦🇷 Spanish",
+      "🇮🇱 Hebrew"
+  },
+  currentFocus: "Leading a way in generative AI innovation",
+  funFact: "I can debug faster with a coffee in hand!"
+}
+```
+
 
 📫 **━━━━━━━━[ HOW TO REACH THE SYSOP ]━━━━━━━━**
 
