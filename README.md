@@ -19,15 +19,15 @@ and tackle complex problems. Always exploring what's next!
 
 🛠️ ━━━━━━━━━━━━━━━[ SKILLS ]━━━━━━━━━━━━━━━
 
-```
+```javascript
 const IONI = {
   Code: [C#, Python, PHP, Web-Apps, Cloud-native, Javascript, Typescript, HTML, CSS], // 20+ yrs, might dream in curly brace
   Databases: ["PostgreSQL", "MySql", "SQLite", "MS SQL Server", "Redis"],
   Tools: [React, Angular, Node, Docker, K8S],
   Architecture: ["Solution Architecture", "Enterprise Integration", "microservices", "event-driven", "design system pattern"],
   Cloud: [Azure, AWS, GCP, IaC (Bicep, Terraform)]
-  DevOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-  AI: ["Azure AI Services", "Agents and AI Assistants Development", "OpenAI Technologies", "AI Ethics", "Semantic Kernel"], // makes computers slightly smarter,
+  DevOps: ["Docker🐳", "CI/CD", "Azure Devops", "GitHub Actions", "GitLab"],
+  AI: ["Azure AI Services", "Agents and AI Assistants Development", "OpenAI Technologies", "AI Ethics"], // makes computers slightly smarter,
   Leadership: {
       "Team building", // never flipped a table
       "Mentorship",
