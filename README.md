@@ -21,13 +21,15 @@ and tackle complex problems. Always exploring what's next!
 
 ```javascript
 const IONI = {
-  Code: [C#, Python, PHP, Web-Apps, Cloud-native, Javascript, Typescript, HTML, CSS], // 20+ yrs, might dream in curly brace
+  // 20+ yrs, might dream in curly brace
+  Code: [C#, Python, PHP, Web-Apps, Cloud-native, Javascript, Typescript, HTML, CSS], 
   Databases: ["PostgreSQL", "MySql", "SQLite", "MS SQL Server", "Redis"],
   Tools: [React, Angular, Node, Docker, K8S],
   Architecture: ["Solution Architecture", "Enterprise Integration", "microservices", "event-driven", "design system pattern"],
   Cloud: [Azure, AWS, GCP, IaC (Bicep, Terraform)]
   DevOps: ["Docker🐳", "CI/CD", "Azure Devops", "GitHub Actions", "GitLab"],
-  AI: ["Azure AI Services", "Agents and AI Assistants Development", "OpenAI Technologies", "AI Ethics"], // makes computers slightly smarter,
+  // makes computers slightly smarter
+  AI: ["Azure AI Services", "Agents and AI Assistants Development", "OpenAI Technologies", "AI Ethics"], 
   Leadership: {
       "Team building", // never flipped a table
       "Mentorship",
