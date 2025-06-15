@@ -1,38 +1,37 @@
-# Hi there, I'm Jonathan Solarz 👋
+┌─────────────────────────────────────────────────────────────┐
+│   ██████╗ ██╗   ██╗███████╗███████╗    ▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄     │
+│   ██╔══██╗██║   ██║██╔════╝██╔════╝    ▐  JONATHAN    ▌     │
+│   ██████╔╝██║   ██║█████╗  ███████╗    ▐   SOLARZ     ▌     │
+│   ██╔═══╝ ██║   ██║██╔══╝  ╚════██║    ▐   BBS v1.0   ▌     │
+│   ██║     ╚██████╔╝███████╗███████║    ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀     │
+│   ╚═╝      ╚═════╝ ╚══════╝╚══════╝    [public profile]     │
+└─────────────────────────────────────────────────────────────┘
 
-🚀 **Versatile Tech Leader & Software Architect | 24+ years of experience**
+[ SYSOP: Jonathan Solarz | Uptime: 24+ years | Status: 🟢 ONLINE ]
 
----
+🌟 **━━━━━━━━━━━━━━━[ ABOUT ME ]━━━━━━━━━━━━━━━**
+I'm a hands-on tech leader & developer, passionate about  
+building cool stuff with modern tech. Love to learn, mentor,  
+and tackle complex problems. Always exploring what's next!
 
-## 🌟 About Me
+🛠️ **━━━━━━━━━━━━━━━[ SKILLS ]━━━━━━━━━━━━━━━**
+▌ Architecture & Design: Solution Architecture, Enterprise Integration, Agile  
+▌ Cloud & DevSecOps: Azure, AWS, GitHub, GitLab, Bitbucket, Docker, IaC  
+▌ Software: C#/.NET (15+ yrs), Web Apps, Cloud-Native, React, Angular,  
+▌           Python, PHP, SQL/NoSQL, Redis  
+▌ Leadership: Team building, mentorship, workshops, writing  
+▌ Languages: English, Spanish, Hebrew  
 
-I'm a hands-on tech leader and software developer, passionate about building innovative solutions with modern technologies. I thrive on learning, enjoy mentoring, and love solving complex problems at scale.
+📫 **━━━━━━━━[ HOW TO REACH THE SYSOP ]━━━━━━━━**
+✉️ Email:     jsolarz@gmail.com  
+🔗 LinkedIn:  https://linkedin.com/in/ioni-solarz
 
----
+⚡ **━━━━━━━━━━━━━━━[ FUN FACTS ]━━━━━━━━━━━━━━**
+• Enjoys building PoCs & exploring new tech  
+• Loves mentoring & empowering teams  
+• Always open for cool collabs!  
 
-## 🛠️ Skills
+❤️ **━━━━━━━━━━━[ QUOTE OF THE DAY ]━━━━━━━━━━**
+_"Build, mentor, innovate, and never stop learning."_ 😎
 
-- **Architecture & Design:** Solution Architecture, Enterprise Integration, Agile Methodologies
-- **Cloud & DevSecOps:** Azure, AWS, GitHub, GitLab, Bitbucket, Docker, IaC
-- **Software Development:** C#/.NET (15+ yrs), Web Apps, Cloud-Native, React, Angular, Python, PHP, SQL & NoSQL DBs, Redis
-- **Leadership:** Team building, mentorship, workshops, technical writing
-- **Languages:** English, Spanish, Hebrew
-
----
-
-## 📫 How to Reach Me
-
-- Email: [jsolarz@gmail.com](mailto:jsolarz@gmail.com)
-- LinkedIn: [ioni-solarz](https://linkedin.com/in/ioni-solarz)
-
----
-
-## ⚡ Fun Facts
-
-- I love exploring new technologies and building PoCs
-- Enjoy mentoring and empowering teams
-- Always looking to collaborate on meaningful projects!
-
----
-
-> “Build, mentor, innovate, and never stop learning.” 😎
+━━━━━━━━━━━ [ END OF FILE - PRESS F1 FOR HELP ] ━━━━━━━━━━━
